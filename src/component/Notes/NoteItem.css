@@ -1,0 +1,41 @@
+.update_btn {
+    background-color: #203562;
+    color: white;
+    margin-top: 10px;
+    border: 0;
+    border-radius: 20px;
+}
+
+.update_input {
+    border: 0;
+    margin: 5px 10px;
+    padding-left: 5px;
+
+}
+
+.edit_btn {
+    border: 0;
+    border-radius: 8px;
+    width: 40px;
+    transition: 0.2s;
+}
+
+.edit_btn:hover {
+
+    background-color: orange;
+
+}
+
+.delete_btn {
+    border: 0;
+    border-radius: 8px;
+    width: 40px;
+    transition: 0.2s;
+}
+
+.delete_btn:hover {
+    background-color: rgb(249, 28, 28);
+}
+.notes_main{
+    background-color: white;
+}

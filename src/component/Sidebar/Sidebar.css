@@ -1,0 +1,18 @@
+.notes_option {
+    background-color: #203562;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 0 3px 10px rgb(140, 140, 140);
+}
+
+.sidebar_main {
+    background-color: white;
+    height: 100%;
+
+
+}
+
+.sidebar_head {
+    text-align: center;
+    margin-top: 20px;
+}
